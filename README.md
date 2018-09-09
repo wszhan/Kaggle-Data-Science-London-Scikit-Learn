@@ -32,7 +32,7 @@ With my customized ensemble model, I can reach the score around 0.86. Not until 
 
 ## About Gaussian Mixture
 
-For practitioners, I would recommend (Scikit-Learn's Introduction about Gaussian Mixture Models)[http://scikit-learn.org/stable/modules/mixture.html] and (the documentation on it)[http://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html].
+For practitioners, I would recommend [Scikit-Learn's Introduction about Gaussian Mixture Models](http://scikit-learn.org/stable/modules/mixture.html) and [the documentation on it](http://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html).
 
 It turns out that this model is extremely useful for classification tasks, playing a very efficient role during the preprocessing phase.
 
