@@ -4,6 +4,10 @@
 
 This is a project that has long ended four years ago. However, it still proves to be one of the most useful project for machine learning and data science practitioners to hone their skills with Scikit-Learn.
 
+## Overview
+
+This is a binary classification task, designed by Scikit-Learn and presented as a competition data set in a meetup event in London. The project is now [a practice dataset on Kaggle](https://www.kaggle.com/c/data-science-london-scikit-learn). However, it is still challenging, since it requires insight into the dataset, preprocessing skills, and the number of features is quite a lot.
+
 ## Instructions
 
 ### Environment
@@ -28,7 +32,7 @@ python london-scikit-learn.py
 
 ## Credits
 
-With my customized ensemble model, I can reach the score around 0.86. Not until I learnt about Gaussian Mixture models from (Siddharth Agarwal's repository)[https://kaggle2.blob.core.windows.net/competitions/kaggle/3428/media/scikit-learn-logo.png] can I reach the score above 0.98, which is really a breakthrough.
+With my customized ensemble model, I can reach the score around 0.86. Not until I learnt about Gaussian Mixture models from [Siddharth Agarwal's repository](https://github.com/siddharthagarwal/Kaggle-Data-Science-London-Scikit-Learn) can I reach the score above 0.98, which is really a breakthrough.
 
 ## About Gaussian Mixture
 
